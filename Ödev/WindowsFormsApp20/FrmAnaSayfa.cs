@@ -14,6 +14,7 @@ namespace WindowsFormsApp20
     {
         public FrmAnaSayfa()
         {
+            // Sayfa açıldığında yapılacak işlemler   
             InitializeComponent();
         }
 
